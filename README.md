@@ -1,5 +1,7 @@
 # ***xjx-repository***
 
+![贡献者contributors](https://github.com/xjxgithub/xjx-repository-social-communicate/graphs/contributors)
+
 >>>英文水平不高，其它语言也不会，所以很多文件还是中文，没有英文或其它语种的翻译。外国的朋友请自备翻译，从现在开始学中文也是一个不错的选择（中国朋友可以满意地偷笑了）。
 
 >>>my English is not so great,and I haven't learn other languages yet.so many files are still in Chinese and they don't have translation.foreign friends can prepare translantor.learning Chinese now is a good choice,too.
