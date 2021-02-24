@@ -1,4 +1,4 @@
-if you upload a "code" file,please put it in the correct floder.
-if there isn't a floder you want,you can creat a new.
+if you upload a "code" file,please put it in the correct folder.
+if there isn't a folder you want,you can creat a new.
 如果你要上传一个代码文件，请把它放在正确的文件夹中。
 如果这里没有你想要的文件夹，你可以创建一个新的。
