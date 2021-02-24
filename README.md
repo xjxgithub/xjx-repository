@@ -26,7 +26,7 @@ please put your code into "code floder".
 
 ##warning!warning!warning!
 
-##***警告！警告！警告！***
+##警告！警告！警告！
 
 **these things will not be permitted:**
 
