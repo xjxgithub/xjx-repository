@@ -24,9 +24,9 @@ please put your code into "code folder".
 
 代码请放在code folder中。
 
-## ***warning!warning!warning!***
+# ***warning!warning!warning!***
 
-## ***警告！警告！警告！***
+# ***警告！警告！警告！***
 
 **these things will not be permitted:**
 
