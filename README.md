@@ -1,9 +1,5 @@
 # xjx-repository
 
-***my fault:I wrote "folder" incorrectly in "code",please forgive me(*~*).though it can be corrected,but I think this small problem will not influence you,it's too troublesome as well（maybe I will correct it somedays if I have time.you also can help me.）***
-
-***我的过失：我在“code”中把“folder”打错了，请原谅（*~*）。虽然它可以改正，但是我认为这个小问题不会影响到你，而且它也太麻烦了。(之后有时间我也许会改正。你也可以帮我。)***
-
 a public repository.
 
 一个公共的仓库。
