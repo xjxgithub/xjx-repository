@@ -1,4 +1,5 @@
 # xjx-repository
+
 a public repository.
 
 一个公共的仓库。
@@ -22,3 +23,23 @@ repository's pictures is store in "repository pictures".all update pictures abou
 please put your code into "code floder".
 
 代码请放在code floder中。
+
+##warning!warning!warning!
+
+##***警告！警告！警告！***
+
+**these things will not be permitted:**
+
+*1.upload things that are illegal.*
+
+*2.release things that are sensetive.*
+
+*3.break the relationship between the visitors.*
+
+**这些事是不被允许的**
+
+*1、上传非法的东西。*
+
+*2、发布敏感信息。*
+
+*3、破坏访问者之间的关系。*
