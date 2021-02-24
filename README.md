@@ -5,3 +5,9 @@ all one can use this repository to store something to chat with others or commun
 任何人都可以用这个仓库来储存事物来和别人交流或者交流经验技术。
 the owner of this respository like Japanese,American and Chinese cartoons very much so you can also talk about them or exchange pictures there.
 仓库主人非常喜欢日本、美国和中国番剧所以你也可以在这里讨论或者交换图片（lsp了）。
+repository's pictures is store in "repository pictures".all update pictures about repository（such as cover） can be seen there.
+仓库的图片被储存在repository pictures中。任何仓库更新的图片(比如封面)可以在这里被找到。
+you can upload your pictures in "pictures floder".please read "read me first" there.
+你可以上传图片到pictures floder。请先阅读那里的read me first。
+please put your code into "code floder".
+代码请放在code floder中。
