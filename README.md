@@ -15,9 +15,9 @@ repository's pictures is store in "repository pictures".all update pictures abou
 
 仓库的图片被储存在repository pictures中。任何仓库更新的图片(比如封面)可以在这里被找到。
 
-you can upload your pictures in "pictures floder".please read "read me first" there.
+*you can upload your pictures in "pictures floder".please read "read me first" there.*
 
-你可以上传图片到pictures floder。请先阅读那里的read me first。
+*你可以上传图片到pictures floder。请先阅读那里的read me first。*
 
 please put your code into "code floder".
 
