@@ -32,7 +32,7 @@ please put your code into "code folder".
 
 *1.upload things that are illegal.*
 
-*2.release things that are sensetive.*
+*2.release things that are sensetive or bad.*
 
 *3.break the relationship between the visitors.*
 
