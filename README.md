@@ -1,4 +1,4 @@
-# xjx-repository
+># xjx-repository
 
 a public repository.
 
@@ -24,7 +24,7 @@ please put your code into "code floder".
 
 代码请放在code floder中。
 
-##warning!warning!warning!
+>>##warning!warning!warning!
 
 ##警告！警告！警告！
 
