@@ -1,4 +1,4 @@
-# xjx-repository
+# ***xjx-repository***
 
 >>>英文水平不高，其它语言也不会，所以很多文件还是中文，没有英文或其它语种的翻译。外国的朋友请自备翻译，从现在开始学中文也是一个不错的选择（中国朋友可以满意地偷笑了）。
 
@@ -24,9 +24,9 @@ repository's pictures is store in "repository pictures".all update pictures abou
 
 *你可以上传图片到pictures folder。请先阅读那里的read me first。*
 
-please put your code into "code folder".
+*please put your code into "code folder".*
 
-代码请放在code folder中。
+*代码请放在code folder中。*
 
 # ***warning!warning!warning!***
 
