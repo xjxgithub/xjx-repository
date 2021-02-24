@@ -36,7 +36,7 @@ please put your code into "code floder".
 
 *3.break the relationship between the visitors.*
 
-**这些事是不被允许的**
+**这些事是不被允许的：**
 
 *1、上传非法的东西。*
 
