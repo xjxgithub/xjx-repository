@@ -54,6 +54,6 @@ repository's pictures is store in "repository pictures".all update pictures abou
 
 # 贡献说明
 
-please read [contributing.md](https://github.com/xjxgithub/xjx-repository-social-communicate/blob/main/CONTRIBUTING.md) carefully.
+please read [CONTRIBUTING.md](https://github.com/xjxgithub/xjx-repository-social-communicate/blob/main/CONTRIBUTING.md) carefully.
 
-请仔细阅读[contributing.md](https://github.com/xjxgithub/xjx-repository-social-communicate/blob/main/CONTRIBUTING.md)
+请仔细阅读[CONTRIBUTING.md](https://github.com/xjxgithub/xjx-repository-social-communicate/blob/main/CONTRIBUTING.md)
