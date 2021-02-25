@@ -4,7 +4,7 @@
 
 thanks to contributors!鸣谢贡献者们！
 
-[[！贡献者contributors]（https://github.com/xjxgithub/xjx-repository-social-communicate/graphs/contributors）]
+[![贡献者contributors]（https://github.com/xjxgithub/xjx-repository-social-communicate/graphs/contributors）]
 
 please compress your pictures to prevent to take up too much resources.
 
