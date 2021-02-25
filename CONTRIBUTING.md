@@ -13,3 +13,11 @@ please compress your pictures to prevent to take up too much resources.
 your files have to be legal.
 
 你的文件必须合法。
+
+it's excepted that you can upload a introdution for your files.(voluntary)
+
+希望你可以为你的文件上传一份介绍。（自愿的）
+
+it can't be better if you can introduce your files in two or more languaegs.
+
+如果你可以用两种或以上语言介绍你的文件，那就再好不过了。
