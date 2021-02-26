@@ -21,3 +21,7 @@ it's excepted that you can upload a introdution for your files.(voluntary)
 it can't be better if you can introduce your files in two or more languaegs.
 
 如果你可以用两种或以上语言介绍你的文件，那就再好不过了。
+
+don't care about that if your code is too esay,others will laugh at you.everyone will and should rexpect you.
+
+不用担心如果你的代码太简单，别人会嘲笑你。每个人都会也都应该尊重别人。
